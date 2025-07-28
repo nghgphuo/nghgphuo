@@ -17,8 +17,8 @@
 
 <h3 align="left">🏆 Competitions:</h3>
 <p align="left">
-  <a href="https://robocon.vtv.vn" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/ABU_Robocon_logo.svg/512px-ABU_Robocon_logo.svg.png" alt="Robocon 2025" width="100" />
+  <a href="https://vtv.vn/truyen-hinh/kham-pha-chu-de-luat-thi-robocon-2025-chien-binh-bong-ro-2025052815383261.htm" target="blank">
+    <img src="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/metadata/20250605/2025060513/5WqcD6LY04-CDQB_KNPD_ROBOCON2025_HH7T6.00_00_28_01.Still002.webp" alt="Robocon 2025" width="100" />
   </a>
   <br>
   🚀 Participating in **Robocon Vietnam 2025** as part of the robotics development team.
