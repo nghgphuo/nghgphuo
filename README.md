@@ -9,7 +9,7 @@
 </p>
 
 - 🎓 Studying at **Lac Hong University**
-- 🌱 Mastering **.NET**and **ReactJS**
+- 🌱 Mastering **.NET** and **ReactJS**
 - 🚀 Passionate about building innovative web and robotics solutions
 - 🤝 Open to collaborating on creative projects
 - 📫 Reach me at **nghgphuo@gmail.com**
